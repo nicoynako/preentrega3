@@ -1,0 +1,41 @@
+[
+    {
+      "title": "Jabon",
+      "description": "Jabon para lavar la ropa",
+      "price": 200,
+      "thumbnail": "imagen",
+      "code": "779889",
+      "stock": 10,
+      "id": 1
+    },
+  
+    {
+      "title": "Suavisante",
+      "description": "para pre lavado",
+      "price": 30,
+      "thumbnail": "imagen",
+      "code": "779556",
+      "stock": 25,
+      "id": 2
+    },
+  
+    {
+      "title": "Detergente",
+      "description": "concentrado",
+      "price": 16,
+      "thumbnail": "imagen",
+      "code": "779445",
+      "stock": 50,
+      "id": 3
+    },
+  
+    {
+      "title": "Detergente",
+      "description": "clasico",
+      "price": 15,
+      "thumbnail": "imagen",
+      "code": "779223",
+      "stock": 15,
+      "id": 4
+    }
+  ]
